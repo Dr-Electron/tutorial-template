@@ -5,6 +5,14 @@ module.exports = {
     url: '/',
     baseUrl: '/',
     themes: ['@docusaurus/theme-classic'],
+    tutorial: {
+        title: 'EVM Tutorial',
+        description: 'In this tutorial, you will learn how to use the EVM in IOTA.',
+        preview: 'evm-tutorial.png',
+        website: 'evm-tutorial/intro',
+        source: 'https://github.com/dr-electron/tutorial-template',
+        tags: ['text'],
+    },
     plugins: [
         [
             '@docusaurus/plugin-content-docs',
@@ -17,5 +25,5 @@ module.exports = {
             },
         ],
     ],
-    staticDirectories: [path.resolve(__dirname, './static')],
+    staticDirectories: [path.resolve(__dirname, './images')],
 };

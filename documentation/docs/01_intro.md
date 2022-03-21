@@ -12,6 +12,8 @@ keywords:
 - mint tokens
 ---
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Dr-Electron/tutorial-template/tree/main)
+
 ## Introduction
 
 In this tutorial, you will learn how the IOTA Smart Contract EVM works and how you can use it. You will also learn how to develop your own decentralised application and deploy it.

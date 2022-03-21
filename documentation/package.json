@@ -1,12 +1,8 @@
 {
     "name": "documentation",
     "version": "0.0.0",
-    "private": "true",
     "scripts": {
-        "start": "docusaurus start",
-        "clean": "iota-wiki-cli clean",
-        "setup": "iota-wiki-cli setup",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "docusaurus start"
     },
     "license": "UNLICENSED",
     "engines": {
